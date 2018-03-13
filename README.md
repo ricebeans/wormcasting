@@ -8,7 +8,7 @@ namespace net.dummy #DDDDDD {
     .BaseClass <|-- Person
     Meeting o-- Person
     
-    .BaseClass <|- Meeting
+    .BaseClass <|- Meeting place
 }
 
 namespace net.foo {
